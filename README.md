@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on [Amdibell Project](https://github.com/Kgamdaofficial/Amdibell)
 
-- 🌱 I’m currently learning **Java, Node.js, HTML, Python**
+- 🌱 I’m currently learning **Java, Node.js, HTML, Python,Huax**
 
 - 👨‍💻 All of my projects are available at > [My Git](https://github.com/kgamdaofficial/) <
 
