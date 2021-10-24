@@ -82,3 +82,42 @@
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=kgamdaofficial&theme=highcontrast&repo=Amdibell)](https://github.com/kgamdaofficial/Amdibell)
 
 </details>
+
+#### KgAmda Project Team
+
+<table>
+										<tbody>
+											<tr>
+												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/fqn5sM7/LOGO.jpg" width="100" height="100" alt="KgAmda"></a></td>
+												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/4my3Tvp/LOGO.jpg" width="100" height="100" alt="Mr.pasiya"></a></td>
+												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/6Nb6hkx/LOGO.jpg" width="100" height="100" alt="no"></a></td>
+												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/gdbjswr/LOGO.jpg" width="100" height="100" alt="sithum"></a></td>
+												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/sWjm7g6/LOGO.jpg" width="100" height="100" alt="AmdiBell"></a></td>
+										                <td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/hYMLjVX/LOGO.jpg" width="100" height="100" alt="Mr.kaviya"></a></td>										                                                                                </tr>
+											<tr>
+												<td><a href="httsp://github.com/kgamdaofficial">KgAmda</a></br>(Founder)</td>
+												<td><a href="httsp://github.com/kgamdaofficial/">	Mr.pasiya</a></br>(Co-Admin)</td>
+												<td><a href="httsp://github.com/kgamdaofficial/">no</a></br>(Public Supportive)</td>
+												<td><a href="httsp://github.com/kgamdaofficial">	sithum</a></br>(Web developer)</td>
+												<td><a href="httsp://github.com/kgamdaofficial/">AmdiBell</a></br>(Graphic Designer)</td>
+												<td><a href="httsp://github.com/kgamdaofficial">Mr.kaviya</a></br>(Group Management)</td>
+											</tbody>
+									</table>
+                  <table>
+										<tbody>
+											<tr>
+												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/3CP2DPR/LOGO.jpg" width="100" height="100" alt="BlackHunt"></a></td>
+												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/cXVY9Yw/LOGO.jpg" width="100" height="100" alt="Gimhana"></a></td>
+												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/nz7BbrN/LOGO.jpg" width="100" height="100" alt="Mr.hasiya"></a></td>
+												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/8gMSvBB/LOGO.jpg" width="100" height="100" alt="Yasas dilipa"></a></td>
+												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/VBzzh95/LOGO.jpg" width="100" height="100" alt="Adeesha"></a></td>
+				                                                        </tr>
+											<tr>
+												<td><a href="httsp://github.com/kgamdaofficial">BlackHunt</a></br>(Group Management)</td>
+												<td><a href="httsp://github.com/kgamdaofficial/">Gimhana</a></br>(Group Management)</td>
+												<td><ahref="httsp://github.com/kgamdaofficial/">Mr.hasiya</a></br>(Ideas)</td>
+												<td><a href="httsp://github.com/kgamdaofficial">Yasas dilipa</a></br>(Mamber)</td>
+												<td><a href="httsp://github.com/kgamdaofficial">Adeesha</a></br>(Mamber)</td>
+										</tbody>
+									</table>
+
