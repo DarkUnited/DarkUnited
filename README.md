@@ -18,7 +18,7 @@
   </a>
 </p>
 
-[![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://youtube.com/c/BEAT BOX 🎶)&nbsp;
+[![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCQIo_J1z2MdVeKlY7Wh9TUA)&nbsp;
 [![Telegram](https://img.shields.io/badge/Bemro%20Team-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/)&nbsp;
 [![Facebook](https://img.shields.io/badge/Follow%20me%20on%20Facebook-2533cf?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=facebook)](https://fb.me/bemroonline)&nbsp;
 [![Intagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://www.instagram.com/amdakolla1)&nbsp;
