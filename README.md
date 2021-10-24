@@ -25,7 +25,7 @@
 [![Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-098f99?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=twitter)](https://twitter.com/kgamda1)&nbsp;
 [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/kgamdaofficial)
 
-- 🔭 I’m currently working on [Amdibell Project](https://github.com/Kgamdaofficial/Amdibell)
+- 🔭 I’m currently working on [Amdibell](https://sites.google.com/view/amdibell)
 
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python,Huax**
 
