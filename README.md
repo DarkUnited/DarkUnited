@@ -24,6 +24,7 @@
 [![Intagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://www.instagram.com/amdakolla1)&nbsp;
 [![Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-098f99?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=twitter)](https://twitter.com/kgamda1)&nbsp;
 [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/kgamdaofficial)
+<p align="left">
 <a href="https://www.reddit.com/user/KgAmda target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="KgAmda" height="30" width="40" /></a>
 </p>
 
