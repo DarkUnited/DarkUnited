@@ -28,7 +28,7 @@
 <a href="https://www.reddit.com/user/KgAmda target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="KgAmda" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on [Amdibell](https://sites.google.com/view/amdibell)
+- 🔭 I’m currently working on [Amdibell](https://www.reddit.com/user/KgAmda/draft/f7c534e4-37f9-11ec-b76a-5edd028fb213)
 
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python,Huax**
 
