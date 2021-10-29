@@ -65,6 +65,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgamdaofficial&show_icons=true&layout=compact&theme=highcontrast" alt="kgamdaofficial" /></p>
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="kgamdaofficial" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kgamdaofficial&show_icons=true&theme=highcontrast" alt="kgamdaofficial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kgamdaofficial&theme=highcontrast" alt="kgamdaofficial" /></p>
@@ -123,4 +126,6 @@
 												<td><a href="httsp://github.com/kgamdaofficial">Adeesha</a></br>(Mamber)</td>
 										</tbody>
 									</table>
+
+
 
