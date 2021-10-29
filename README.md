@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on [Amdibell](https://www.reddit.com/user/KgAmda/draft/f7c534e4-37f9-11ec-b76a-5edd028fb213)
 
-- 🌱 I’m currently learning **Java, Node.js, HTML, Python,Huax**
+- 🌱 I’m currently learning **Java, Node.js, HTML, Python, shell**
 
 - 👨‍💻 All of my projects are available at > [My Git](https://github.com/kgamdaofficial/) <
 
