@@ -124,11 +124,3 @@
 										</tbody>
 									</table>
 
-# [GitHub Stats Visualization](https://github.com/kgamdaofficial)
-
-<a href="https://github.com/kgamdaofficial">
-
-![](https://github.com/kgamdaofficial/blob/master/generated/overview.svg)
-![](https://github.com/kgamdaofficial/blob/master/generated/languages.svg)
-
-</a>
