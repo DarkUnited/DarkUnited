@@ -1,6 +1,6 @@
 <h2 align="center">☠️ Hellow ☠️ <br>I'm <br>⚖️🐝KgAmda🐝⚖️</h1>
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
-# Amdibell whatsapp user bot project.Amdibell bot ᴘʀᴏᴊᴇᴄᴛ👸
+<h7 align="center"> Amdibell whatsapp user bot project.Amdibell bot ᴘʀᴏᴊᴇᴄᴛ👸</h7>
 
 <h4 align="center">⚖️🕯₳ⲘƉ₳ Tech🕯️⚖️¶աҽ ɑɾҽ ϲɾíʍíղɑӀ Ӏҽցíօղ☣️ρŕόģŕάмέŕş ꪖ𝘳ꫀ ค๓໓ค😼√ᴀᴍᴅᴀ ᴘʀᴏᴊᴇᴄᴛ🤓§ÿɱβȽ£ åȑ£ 𓅂♦άήȡ ᏕꂅꂅКꂅᏒ ᗪEᐯEᖇᒪOᑭEᖇ🔑🔓աɛ ǟʀɛ քʀօȶɛƈȶ🥏⚙⚒️Şiຖ¢ē2021🎭☬💎㊗⚖️🇱🇰)..</h3>
 
