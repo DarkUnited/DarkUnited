@@ -2,6 +2,8 @@
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
 <h7 align="left">Amdibell whatsapp user bot project. <br>Amdibell bot 👸</h7>
 
+<h4 align="center">⚖️🕯₳ⲘƉ₳ Tech🕯️⚖️¶աҽ ɑɾҽ ϲɾíʍíղɑӀ Ӏҽցíօղ☣️ρŕόģŕάмέŕş ꪖ𝘳ꫀ ค๓໓ค😼√ᴀᴍᴅᴀ ᴘʀᴏᴊᴇᴄᴛ🤓§ÿɱβȽ£ åȑ£ 𓅂♦άήȡ ᏕꂅꂅКꂅᏒ ᗪEᐯEᖇᒪOᑭEᖇ🔑🔓աɛ ǟʀɛ քʀօȶɛƈȶ🥏⚙⚒️Şiຖ¢ē2021🎭☬💎㊗⚖️🇱🇰)..</h3>
+
 ##
 <p align="center">
   <a href="https://github.com/kgamdaofficial/Amdibell">
