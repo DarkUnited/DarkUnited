@@ -64,11 +64,11 @@
 
 <!-- end -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackSuis&show_icons=true&layout=compact&theme=highcontrast" alt="BlackSuis" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmdaOfficial&show_icons=true&layout=compact&theme=highcontrast" alt="AmdaOfficial" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackSuis&show_icons=true&theme=highcontrast" alt="BlackSuis" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmdaOfficial&show_icons=true&theme=highcontrast" alt="AmdaOfficial" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackSuis&theme=highcontrast" alt="BlackSuis" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmdaOfficial&theme=highcontrast" alt="AmdaOfficial" /></p>
 </details>
 
 <details>
