@@ -126,5 +126,5 @@ BlackVampired										</tbody>
 
 
 <!-- https://github.com/BlackVampired/github-readme-activity-graph -->
-<a href="https://github.com/AmdaOfficial/github-readme-activity-graph"><img alt="BlackVampired's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BlackVampired&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/BlackVampired/github-readme-activity-graph"><img alt="BlackVampired's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BlackVampired&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
