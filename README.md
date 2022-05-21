@@ -5,16 +5,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=%F0%9F%8E%A9%F0%9F%95%AF%EF%B8%8F%D4%9E.%E2%82%B2+%C6%87%C6%A6%D0%84%C6%9C+%F0%9F%95%AF%EF%B8%8F%F0%9F%8E%A9;%D5%A1%D2%BD+%C9%91%C9%BE%D2%BD+%C9%91%D5%B2%D6%85%D5%B2%D5%BE%CA%8D%D6%85%D5%B4%D5%8F%D2%BD+%E2%98%A3;%D5%A1%D2%BD+%C9%91%C9%BE%D2%BD+%D4%B9%C9%BE%D2%BD%D5%8F%C3%AD%D5%AA%D2%BD%D5%B2%D4%B5+%D2%8D%D5%BE+%D5%AA%C9%91%D5%BE%F0%9F%98%BC;%D5%B0%D5%B4%D5%B2%D4%B5%D2%BD%C9%BE+%D2%8D%D5%BE+%D5%B2%C3%AD%D6%81%D5%B0%D4%B5%F0%9F%8F%B4%E2%80%8D%E2%98%A0%E2%80%8D%F0%9F%AA%93;%D5%8F%D2%BD%C9%BE%D4%B9%C9%91%D5%8F%D5%8F+%D4%B5%D5%B0%D2%BD+%CF%B2%D5%BE%D2%8D%D2%BD%C9%BE+%CF%B2%C9%BE%C3%AD%CA%8D%C3%AD%D5%B2%C9%91%D3%80+%C6%92%D6%85%C9%BE%CF%B2%D2%BD+%7C+;%E2%9A%99%E2%9A%92%EF%B8%8F(%C5%9Ei%E0%BA%96%C2%A2%C4%932020)%F0%9F%8E%AD%E2%98%AC%F0%9F%92%8E%E3%8A%97%E2%9A%96%EF%B8%8F%F0%9F%87%B1%F0%9F%87%B0)](https://git.io/typing-svg)
 ##
 <p align="center">
-  <a href="https://github.com/BlackVampired">
-    <img src="https://komarev.com/ghpvc/?username=BlackVampired&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+  <a href="https://github.com/AnonyMouSeTEAM">
+    <img src="https://komarev.com/ghpvc/?username=AnonyMouSeTEAM&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
-  <a href="https://github.com/BlackVampired?tab=stars">
-    <img src="https://img.shields.io/github/stars/BlackVampired?color=ff69b4&label=Stars&style=plastic">
+  <a href="https://github.com/AnonyMouSeTEAM?tab=stars">
+    <img src="https://img.shields.io/github/stars/AnonyMouSeTEAM?color=ff69b4&label=Stars&style=plastic">
 
   </a>
-  <a href="https://github.com/BlackVampired?tab=followers">
-    <img src="https://img.shields.io/github/followers/BlackVampired?color=ff69b4&label=Followers&style=plastic">
+  <a href="https://github.com/AnonyMouSeTEAM?tab=followers">
+    <img src="https://img.shields.io/github/followers/AnonyMouSeTEAM?color=ff69b4&label=Followers&style=plastic">
 
   </a>
 </p>
@@ -29,11 +29,11 @@
 <a href="https://www.reddit.com/user/Amda target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Amda" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on [Amdibell](https://www.reddit.com/user/BlackVampired/draft/f7c534e4-37f9-11ec-b76a-5edd028fb213)
+- 🔭 I’m currently working on [Amdibell](https://www.reddit.com/user/AnonyMouSeTEAM/draft/f7c534e4-37f9-11ec-b76a-5edd028fb213)
 
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python, shell**
 
-- 👨‍💻 All of my projects are available at > [My Git](https://github.com/AmdaOfficial/) <
+- 👨‍💻 All of my projects are available at > [My Git](https://github.com/AnonyMouSeTEAM/) <
 
 - 📫 How to reach me > [Whatsapp](https://wa.me/94761444438) <
 
@@ -64,11 +64,11 @@
 
 <!-- end -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackVampired&show_icons=true&layout=compact&theme=highcontrast" alt="BlackVampired" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnonyMouSeTEAM&show_icons=true&layout=compact&theme=highcontrast" alt="AnonyMouSeTEAM" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackVampired&show_icons=true&theme=highcontrast" alt="BlackVampired" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnonyMouSeTEAM&show_icons=true&theme=highcontrast" alt="AnonyMouSeTEAM" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackVampired&theme=highcontrast" alt="BlackVampired" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnonyMouSeTEAM&theme=highcontrast" alt="AnonyMouSeTEAM" /></p>
 </details>
 
 <details>
@@ -81,13 +81,13 @@
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/BlackVampired?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/AnonyMouSeTEAM?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=BlackVampired&theme=highcontrast&repo=Amdibell)](https://github.com/BlackVampired/Amdibell)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=AnonyMouSeTEAM&theme=highcontrast&repo=Amdibell)](https://github.com/AnonyMouSeTEAM/Amdibell)
 
 </details>
 
 
-<!-- https://github.com/BlackVampired/github-readme-activity-graph -->
-<a href="https://github.com/BlackVampired/github-readme-activity-graph"><img alt="BlackVampired's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BlackVampired&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- https://github.com/AnonyMouSeTEAM/github-readme-activity-graph -->
+<a href="https://github.com/AnonyMouSeTEAM/github-readme-activity-graph"><img alt="BlackVampired's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnonyMouSeTEAM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
