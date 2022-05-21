@@ -87,43 +87,6 @@
 
 </details>
 
-#### AmdA Project Team
-
-<table>
-										<tbody>
-											<tr>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/fqn5sM7/LOGO.jpg" width="100" height="100" alt="BlackSuis"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/4my3Tvp/LOGO.jpg" width="100" height="100" alt="Mr.pasiya"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/6Nb6hkx/LOGO.jpg" width="100" height="100" alt="no"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/gdbjswr/LOGO.jpg" width="100" height="100" alt="sithum"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/sWjm7g6/LOGO.jpg" width="100" height="100" alt="AmdiBell"></a></td>
-										                <td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/hYMLjVX/LOGO.jpg" width="100" height="100" alt="Mr.kaviya"></a></td>										                                                                                </tr>
-											<tr>
-												<td><a href="httsp://github.com/BlackVampired">KgAmda</a></br>(Founder)</td>
-												<td><a href="httsp://github.com/BlackVampired/">	Mr.pasiya</a></br>(Co-Admin)</td>
-												<td><a href="httsp://github.com/BlackVampired/">no</a></br>(Public Supportive)</td>
-												<td><a href="httsp://github.com/BlackVampired">	sithum</a></br>(Web developer)</td>
-												<td><a href="httsp://github.com/BlackVampired/">AmdiBell</a></br>(Graphic Designer)</td>
-												<td><a href="httsp://github.com/BlackVampired">Mr.kaviya</a></br>(Group Management)</td>
-											</tbody>
-									</table>
-                  <table>
-										<tbody>
-											<tr>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/3CP2DPR/LOGO.jpg" width="100" height="100" alt="BlackHunt"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/cXVY9Yw/LOGO.jpg" width="100" height="100" alt="Gimhana"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/nz7BbrN/LOGO.jpg" width="100" height="100" alt="Mr.hasiya"></a></
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/8gMSvBB/LOGO.jpg" width="100" height="100" alt="Yasas dilipa"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/VBzzh95/LOGO.jpg" width="100" height="100" alt="Adeesha"></a></td>
-				                                                        </tr>
-											<tr>
-												<td><a href="httsp://github.com/BlackVampired">BlackHunt</a></br>(Group Management)</td>
-												<td><a href="httsp://github.com/BlackVampired/">Gimhana</a></br>(Group Management)</td>
-												<td><ahref="httsp://github.com/BlackVampired/">Mr.hasiya</a></br>(Ideas)</td>
-												<td><a href="httsp://github.com/BlackVampired">Yasas dilipa</a></br>(Mamber)</td>
-BlackVampired										</tbody>
-									</table>
-
 
 <!-- https://github.com/BlackVampired/github-readme-activity-graph -->
 <a href="https://github.com/BlackVampired/github-readme-activity-graph"><img alt="BlackVampired's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BlackVampired&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
