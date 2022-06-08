@@ -2,7 +2,7 @@
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
 <h7 align="center"> Amdibell whatsapp user bot project.Amdibell bot ᴘʀᴏᴊᴇᴄᴛ👸</h7>
 
-[![Typing SVG][![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=playan+yanna;hutto;pakatya;hutta;balla)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=%F0%9F%8E%A9%F0%9F%95%AF%EF%B8%8F%D4%9E.%E2%82%B2+%C6%87%C6%A6%D0%84%C6%9C+%F0%9F%95%AF%EF%B8%8F%F0%9F%8E%A9;%D5%A1%D2%BD+%C9%91%C9%BE%D2%BD+%C9%91%D5%B2%D6%85%D5%B2%D5%BE%CA%8D%D6%85%D5%B4%D5%8F%D2%BD+%E2%98%A3;%D5%A1%D2%BD+%C9%91%C9%BE%D2%BD+%D4%B9%C9%BE%D2%BD%D5%8F%C3%AD%D5%AA%D2%BD%D5%B2%D4%B5+%D2%8D%D5%BE+%D5%AA%C9%91%D5%BE%F0%9F%98%BC;%D5%B0%D5%B4%D5%B2%D4%B5%D2%BD%C9%BE+%D2%8D%D5%BE+%D5%B2%C3%AD%D6%81%D5%B0%D4%B5%F0%9F%8F%B4%E2%80%8D%E2%98%A0%E2%80%8D%F0%9F%AA%93;%D5%8F%D2%BD%C9%BE%D4%B9%C9%91%D5%8F%D5%8F+%D4%B5%D5%B0%D2%BD+%CF%B2%D5%BE%D2%8D%D2%BD%C9%BE+%CF%B2%C9%BE%C3%AD%CA%8D%C3%AD%D5%B2%C9%91%D3%80+%C6%92%D6%85%C9%BE%CF%B2%D2%BD+%7C+;%E2%9A%99%E2%9A%92%EF%B8%8F(%C5%9Ei%E0%BA%96%C2%A2%C4%932020)%F0%9F%8E%AD%E2%98%AC%F0%9F%92%8E%E3%8A%97%E2%9A%96%EF%B8%8F%F0%9F%87%B1%F0%9F%87%B0)](https://git.io/typing-svg)
 ##
 <p align="center">
   <a href="https://github.com/AnonyMouSeTEAM">
