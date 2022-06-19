@@ -1,6 +1,6 @@
 <h2 align="center"> <br> <br>AMS TEAM PRODUCTION</h1>
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
-  <h7 align="center"> Amdibell whatsapp user bot project. Queen Bella bot ᴘʀᴏᴊᴇᴄᴛ👸</h7>
+  <h7 align="center"> Queen Bella whatsapp user bot project. Queen Bella bot ᴘʀᴏᴊᴇᴄᴛ👸</h7>
 
 
 ##
