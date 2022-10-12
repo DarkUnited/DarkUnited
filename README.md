@@ -27,9 +27,14 @@
 [![Github](https://img.shields.io/badge/Github-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/AnonyMouSeTEAM)
 <p align="left">
 <a href="https://www.reddit.com/user/Amda target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Amda" height="30" width="40" /></a>
-</p>
+</p> 
 
-- 🔭 I’m currently working on [Amdibell](https://www.reddit.com/user/AnonyMouSeTEAM/draft/f7c534e4-37f9-11ec-b76a-5edd028fb213)
+### QueenBella V2 [Multi-Device]coming soon...
+
+####💻 Soon Adventru :
+Creating & Publishing. ■■■■■■■■□□ 80%
+
+- 🔭 I’m currently working on [QueenBella](https://www.reddit.com/user/AnonyMouSeTEAM/draft/f7c534e4-37f9-11ec-b76a-5edd028fb213)
 
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python, shell**
 
