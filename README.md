@@ -31,7 +31,7 @@
 
 ### QueenBella V2 [Multi-Device]coming soon...
 
-####💻 Soon Adventru :
+#### 💻 Soon Adventru :
 Creating & Publishing. ■■■■■■■■□□ 80%
 
 - 🔭 I’m currently working on [QueenBella](https://www.reddit.com/user/AnonyMouSeTEAM/draft/f7c534e4-37f9-11ec-b76a-5edd028fb213)
