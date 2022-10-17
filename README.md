@@ -5,16 +5,16 @@
 
 ##
 <p align="center">
-  <a href="https://github.com/AnonyMouSeTEAM">
-    <img src="https://komarev.com/ghpvc/?username=AnonyMouSeTEAM&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+  <a href="https://github.com/DarkUnited">
+    <img src="https://komarev.com/ghpvc/?username=DarkUnited&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
-  <a href="https://github.com/AnonyMouSeTEAM?tab=stars">
-    <img src="https://img.shields.io/github/stars/AnonyMouSeTEAM?color=ff69b4&label=Stars&style=plastic">
+  <a href="https://github.com/DarkUnited?tab=stars">
+    <img src="https://img.shields.io/github/stars/DarkUnited?color=ff69b4&label=Stars&style=plastic">
 
   </a>
-  <a href="https://github.com/AnonyMouSeTEAM?tab=followers">
-    <img src="https://img.shields.io/github/followers/AnonyMouSeTEAM?color=ff69b4&label=Followers&style=plastic">
+  <a href="https://github.com/DarkUnited?tab=followers">
+    <img src="https://img.shields.io/github/followers/DarkUnited?color=ff69b4&label=Followers&style=plastic">
 
   </a>
 </p>
@@ -34,11 +34,11 @@
 #### 💻 Soon Adventru :
 Creating & Publishing. ■■■■■■■■□□ 80%
 
-- 🔭 I’m currently working on [QueenBella](https://www.reddit.com/user/AnonyMouSeTEAM/draft/f7c534e4-37f9-11ec-b76a-5edd028fb213)
+- 🔭 I’m currently working on [QueenBella](https://www.reddit.com/user/DarkUnited/draft/f7c534e4-37f9-11ec-b76a-5edd028fb213)
 
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python, shell**
 
-- 👨‍💻 All of my projects are available at > [My Git](https://github.com/AnonyMouSeTEAM/) <
+- 👨‍💻 All of my projects are available at > [My Git](https://github.com/DarkUnited/) <
 
 - 📫 How to reach me > [Whatsapp](https://wa.me/94761444438) <
 
@@ -69,30 +69,30 @@ Creating & Publishing. ■■■■■■■■□□ 80%
 
 <!-- end -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnonyMouSeTEAM&show_icons=true&layout=compact&theme=highcontrast" alt="AnonyMouSeTEAM" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkUnited&show_icons=true&layout=compact&theme=highcontrast" alt="DarkUnited" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnonyMouSeTEAM&show_icons=true&theme=highcontrast" alt="AnonyMouSeTEAM" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkUnited&show_icons=true&theme=highcontrast" alt="DarkUnited" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnonyMouSeTEAM&theme=highcontrast" alt="AnonyMouSeTEAM" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkUnited&theme=highcontrast" alt="DarkUnited" /></p>
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=AnonyMouSeTEAM)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=DarkUnited)
 
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/AnonyMouSeTEAM?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/DarkUnited?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=AnonyMouSeTEAM&theme=highcontrast&repo=Amdibell)](https://github.com/AnonyMouSeTEAM/Amdibell)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=DarkUnited&theme=highcontrast&repo=QueenBell)](https://github.com/DarkUnited/QueenBell)
 
 </details>
 
 
-<!-- https://github.com/AnonyMouSeTEAM/github-readme-activity-graph -->
-<a href="https://github.com/AnonyMouSeTEAM/github-readme-activity-graph"><img alt="BlackVampired's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnonyMouSeTEAM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- https://github.com/DarkUnited/github-readme-activity-graph -->
+<a href="https://github.com/DarkUnited/github-readme-activity-graph"><img alt="DarkUnited's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DarkUnited&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
